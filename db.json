@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Understanding JavaScript Closures",
+    "content": "Closures are a fundamental concept in JavaScript that every developer should understand.",
+    "author": "John Doe",
+    "createdAt": "2026-04-01T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "React Code Splitting Guide",
+    "content": "Learn how to optimize your React app using code splitting and lazy loading.",
+    "author": "Jane Smith",
+    "createdAt": "2026-04-01T11:00:00Z"
+  },
+  {
+    "id": 3,
+    "title": "CSS Grid vs Flexbox",
+    "content": "When should you use Grid and when Flexbox? Let's break it down.",
+    "author": "Alex Nguyen",
+    "createdAt": "2026-04-02T09:30:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Async/Await in Depth",
+    "content": "Master asynchronous programming in JavaScript with async/await.",
+    "author": "Chris Lee",
+    "createdAt": "2026-04-02T12:15:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Frontend Interview Tips",
+    "content": "How to prepare effectively for frontend developer interviews.",
+    "author": "Khanh Tran",
+    "createdAt": "2026-04-03T08:00:00Z"
+  },
+  {
+    "id": 6,
+    "title": "State Management in React",
+    "content": "Comparing Redux, Context API, and Zustand.",
+    "author": "Emily Davis",
+    "createdAt": "2026-04-03T10:45:00Z"
+  },
+  {
+    "id": 7,
+    "title": "JavaScript Event Loop Explained",
+    "content": "Understand how the event loop works behind the scenes.",
+    "author": "Michael Brown",
+    "createdAt": "2026-04-04T14:20:00Z"
+  },
+  {
+    "id": 8,
+    "title": "TypeScript Basics",
+    "content": "Get started with TypeScript for safer JavaScript code.",
+    "author": "Sophia Wilson",
+    "createdAt": "2026-04-04T16:00:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Web Performance Optimization",
+    "content": "Tips to make your website faster and more efficient.",
+    "author": "Daniel Martinez",
+    "createdAt": "2026-04-05T09:10:00Z"
+  },
+  {
+    "id": 10,
+    "title": "REST vs GraphQL",
+    "content": "Choosing the right API design for your project.",
+    "author": "Olivia Garcia",
+    "createdAt": "2026-04-05T11:30:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Docker for Beginners",
+    "content": "An introduction to containerization with Docker.",
+    "author": "James Anderson",
+    "createdAt": "2026-04-06T07:50:00Z"
+  },
+  {
+    "id": 12,
+    "title": "CI/CD Pipeline Basics",
+    "content": "Automate your development workflow with CI/CD.",
+    "author": "Isabella Thomas",
+    "createdAt": "2026-04-06T13:40:00Z"
+  },
+  {
+    "id": 13,
+    "title": "Git Best Practices",
+    "content": "Improve your Git workflow with these best practices.",
+    "author": "William Jackson",
+    "createdAt": "2026-04-07T10:05:00Z"
+  },
+  {
+    "id": 14,
+    "title": "Clean Code Principles",
+    "content": "Write maintainable and readable code.",
+    "author": "Mia White",
+    "createdAt": "2026-04-07T15:25:00Z"
+  },
+  {
+    "id": 15,
+    "title": "Unit Testing in JavaScript",
+    "content": "Learn how to write effective unit tests.",
+    "author": "Ethan Harris",
+    "createdAt": "2026-04-08T08:45:00Z"
+  },
+  {
+    "id": 16,
+    "title": "Introduction to Next.js",
+    "content": "Build server-side rendered React applications.",
+    "author": "Charlotte Martin",
+    "createdAt": "2026-04-08T12:00:00Z"
+  },
+  {
+    "id": 17,
+    "title": "Authentication Strategies",
+    "content": "JWT vs Session-based authentication explained.",
+    "author": "Benjamin Thompson",
+    "createdAt": "2026-04-09T09:15:00Z"
+  },
+  {
+    "id": 18,
+    "title": "Microservices Architecture",
+    "content": "Design scalable systems using microservices.",
+    "author": "Amelia Moore",
+    "createdAt": "2026-04-09T11:55:00Z"
+  },
+  {
+    "id": 19,
+    "title": "Web Security Essentials",
+    "content": "Protect your application from common vulnerabilities.",
+    "author": "Lucas Taylor",
+    "createdAt": "2026-04-10T08:20:00Z"
+  },
+  {
+    "id": 20,
+    "title": "AI in Frontend Development",
+    "content": "How AI is changing the way we build user interfaces.",
+    "author": "Harper Anderson",
+    "createdAt": "2026-04-10T10:00:00Z"
+  }
+]
